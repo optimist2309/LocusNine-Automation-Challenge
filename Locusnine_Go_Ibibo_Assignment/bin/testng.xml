@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Locusnine Goibibo Assignment">
+<test name="Goibiobo Booking Automation">
+<classes>
+<class name="com.goibibo.base.TestBase" />
+<class name="com.goibibo.tests.FlightSearchTest"/>
+<class name="com.goibibo.tests.FlightSelectionTest"/>
+<class name="com.goibibo.tests.FlightReviewTest"/>
+</classes>
+</test>
+</suite> <!-- Suite -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Gmail LocusNine Automation Assignment">
+<test name="Page Object Model Design Pattern">
+<classes>
+<class name="com.gmail.basetest.TestBase" />
+<class name="com.gmail.tests.GmailLoginTest"/>
+<class name="com.gmail.tests.GmailComposeMailTest"/>
+<class name="com.gmail.tests.GmailLogoutTest"/>
+</classes>
+</test>
+</suite> <!-- Suite -->

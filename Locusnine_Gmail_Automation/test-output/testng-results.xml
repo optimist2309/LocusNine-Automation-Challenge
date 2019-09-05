@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="9" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-05T16:45:32 IST" name="Gmail LocusNine Automation Assignment" finished-at="2019-09-05T16:46:02 IST" duration-ms="30355">
+    <groups>
+    </groups>
+    <test started-at="2019-09-05T16:45:32 IST" name="Page Object Model Design Pattern" finished-at="2019-09-05T16:46:02 IST" duration-ms="30355">
+      <class name="com.gmail.tests.GmailLogoutTest">
+        <test-method signature="init()[pri:0, instance:com.gmail.tests.GmailLogoutTest@fd07cbb]" started-at="2019-09-05T16:46:00 IST" name="init" finished-at="2019-09-05T16:46:02 IST" duration-ms="2251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- com.gmail.tests.GmailLogoutTest -->
+      <class name="com.gmail.tests.GmailLoginTest">
+        <test-method signature="init()[pri:0, instance:com.gmail.tests.GmailLoginTest@3f56875e]" started-at="2019-09-05T16:45:32 IST" name="init" finished-at="2019-09-05T16:45:54 IST" duration-ms="21853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- com.gmail.tests.GmailLoginTest -->
+      <class name="com.gmail.basetest.TestBase">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:com.gmail.basetest.TestBase@32910148]" started-at="2019-09-05T16:45:22 IST" name="initialize" finished-at="2019-09-05T16:45:32 IST" duration-ms="10068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method is-config="true" signature="TeardownTest()[pri:0, instance:com.gmail.basetest.TestBase@32910148]" started-at="2019-09-05T16:46:02 IST" name="TeardownTest" finished-at="2019-09-05T16:46:02 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- com.gmail.basetest.TestBase -->
+      <class name="com.gmail.tests.GmailComposeMailTest">
+        <test-method signature="init()[pri:0, instance:com.gmail.tests.GmailComposeMailTest@2b4bac49]" started-at="2019-09-05T16:45:54 IST" name="init" finished-at="2019-09-05T16:46:00 IST" duration-ms="6200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- com.gmail.tests.GmailComposeMailTest -->
+    </test> <!-- Page Object Model Design Pattern -->
+  </suite> <!-- Gmail LocusNine Automation Assignment -->
+</testng-results>
